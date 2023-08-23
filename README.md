@@ -1,4 +1,4 @@
-# 📋 İsim Listesi Yönetim Uygulaması 🧑‍💻🔍
+# 📋 İsim Listesi Yönetim Uygulaması Açıklaması 🧑‍💻🔍
 
 * Metodlar Sınıfı: Bu sınıf, isim listesi üzerinde çeşitli işlemleri gerçekleştirmek için kullanılan metotları içerir. Her metot, farklı bir işlevi yerine getirir.
 
